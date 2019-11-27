@@ -1,7 +1,7 @@
 {
   "type": "GenericSmelter",
   "name": "Gridler Process Facility",
-  "description": "Uses the Gridler Process to make water and hydrogen sulfide into deuerium.",
+  "description": "Uses the Gridler Process to make water and hydrogen sulfide into deuterium.",
   "liquidCapacity": 500,
   "outputItem": {
     "item": "depleted-sulfur",
